@@ -1,5 +1,7 @@
 ##VelocityTransitionGroup 0.3.1
 
+[![Join the chat at https://gitter.im/joshuarrr/velocitytransitiongroup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/joshuarrr/velocitytransitiongroup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Getting close to version 1 as well as actual documentation and live samples. Check example for now.**
 
 ###Run Example
